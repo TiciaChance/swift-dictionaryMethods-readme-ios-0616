@@ -142,7 +142,6 @@ for planet in planetsAndTheirMoons.keys {
 
 
 
-// RETRIEVING VALUES
 
 let allTheMoons = Array(planetsAndTheirMoons.values)
 
